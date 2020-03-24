@@ -1,0 +1,15 @@
+body {
+  margin-top: 300px;
+  display: grid;
+  justify-content: center;
+  background-color: green;
+}
+form {
+  display: grid;
+  justify-content: center;
+}
+#feeback {
+  width: 500px;
+  border: 2px solid black;
+  background-color: fuchsia;
+}
